@@ -9,5 +9,26 @@ package CapaNegocio;
  * @author Mark
  */
 public class Ayudante {
+    private String genero;
+    private String nombres;
+
+    public String getGenero() {
+        return genero;
+    }
+
+    public void setGenero(String genero) {
+        this.genero = genero;
+    }
+
+    public String getNombres() {
+        return nombres;
+    }
+
+    public void setNombres(String nombres) {
+        this.nombres = nombres;
+    }
     
+    public void Apoyar(){}
+    
+    public Tour tiene;
 }
