@@ -4,6 +4,7 @@
  */
 package CapaNegocio;
 
+import java.util.ArrayList;
 /**
  *
  * @author Mark
